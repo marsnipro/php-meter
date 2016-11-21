@@ -73,7 +73,7 @@
 						upload.refresh(data.upload);
 					}
 				});
-				setTimeout(getValores, 1500);
+				setTimeout(getValores, 2000);
 			})();
 		});
     </script>
