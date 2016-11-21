@@ -1,5 +1,5 @@
 <!--
-   "php-bwm" Copyright 2016 Sandro Marcell <smarcell@mail.com>
+   Copyright 2016 Sandro Marcell <smarcell@mail.com>
    
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
@@ -25,7 +25,6 @@
 	<title>php-bwm</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="viewport" content="width=device-width" />
 	<meta name="author" content="Sandro Marcell" />
 	<meta name="generator" content="Geany 1.24.1" />
 	<link rel="shortcut icon" href="imagens/favicon.ico" />
