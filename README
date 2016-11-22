@@ -16,6 +16,8 @@ Este projeto foi desenvolvido e testado no seguinte ambiente:
 - PHP 5.6.27-0+deb8u1
 - lighttpd/1.4.35
 - jQuery 2.2.3
+- JustGage 1.2.2
+- Raphaël 2.1.4
 - Browsers: Mozilla Firefox 46.0.1, Google Chrome 51.0.2704.63, Vivaldi 1.1.453.59
 			
 Instalação
