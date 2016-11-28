@@ -86,7 +86,7 @@
 	</div>
 	<div id="footer">
 		<hr class="line">
-		<p>Copyright &copy; 2016 ~ <a href="mailto:smarcell@mail.com">Sandro Marcell</a></p>
+		<p>2016 &copy; <a href="mailto:smarcell@mail.com">Sandro Marcell</a></p>
 	</div>
 </body>
 
