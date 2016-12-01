@@ -6,13 +6,13 @@ Você é livre para modificar, melhorar ou otimizar este programa, mas peço gen
 
 Sobre
 -----
-O "php-bwm" é uma simples solução que utiliza-se das tecnologias PHP e Javascript para oferecer uma forma de acompanhar o consumo de banda (download/upload) em tempo real de seu link de internet, permitindo assim que se possa ter uma noção de quanto tráfego está sendo gerado por sua rede.
+O "php-meter" é uma simples solução que se utiliza das tecnologias PHP e Javascript para oferecer uma forma de acompanhar o consumo de banda (download/upload) em tempo real de seu link de internet, permitindo assim que se possa ter uma noção de quanto tráfego está sendo gerado por sua rede.
 
 Desenvolvimento
 ---------------
 Este projeto foi desenvolvido e testado no seguinte ambiente:
 
-- Linux 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u2 (2016-10-19)
+- Linux 3.16.0-4-amd64 #1 SMP - Debian 3.16.36-1+deb8u2 (2016-10-19)
 - PHP 5.6.27-0+deb8u1
 - lighttpd/1.4.35
 - jQuery 2.2.3
@@ -29,11 +29,11 @@ Instalação
 3) Defina o dono e as permissões de acordo com o usuário que executa o daemon do seu servidor web
 
 * Utilizando o usuário "apache" como exemplo:
-chown -R apache:apache <DIRETÓRIO WEB>/php-bwm/
-find <DIRETÓRIO WEB>/php-bwm/ -type d -exec chmod -R 755 {} \;
-find <DIRETÓRIO WEB>/php-bwm/ -type f -exec chmod -R 644 {} \;
+chown -R apache:apache <DIRETÓRIO WEB>/php-meter/
+find <DIRETÓRIO WEB>/php-meter/ -type d -exec chmod -R 755 {} \;
+find <DIRETÓRIO WEB>/php-meter/ -type f -exec chmod -R 644 {} \;
 
-4) Finalmente acesse o "php-bwm": http://<IP DO SERVIDOR>/php-bwm/
+4) Finalmente acesse o "php-meter": http://<IP DO SERVIDOR>/php-meter/
 
 Projetos
 --------
