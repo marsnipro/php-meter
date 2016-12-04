@@ -24,7 +24,7 @@ require 'include/config.inc.php';
 /* Lendo os valores recebidos/enviados pela interface */
 $rx_1 = file_get_contents(trim('/sys/class/net/'.IFACE.'/statistics/rx_bytes'));
 $tx_1 = file_get_contents(trim('/sys/class/net/'.IFACE.'/statistics/tx_bytes'));
-usleep(1000000);
+usleep(950000);
 $rx_2 = file_get_contents(trim('/sys/class/net/'.IFACE.'/statistics/rx_bytes'));
 $tx_2 = file_get_contents(trim('/sys/class/net/'.IFACE.'/statistics/tx_bytes'));
 
