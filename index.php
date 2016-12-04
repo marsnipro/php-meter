@@ -61,11 +61,11 @@
 
 			(function getValores() {
 				$.ajax({
-					url: 'stats.php',
-					type: 'GET',
+					url: "stats.php",
+					type: "GET",
 					cache: false,
 					async: true,
-					dataType: 'json',
+					dataType: "json",
 					success: function(data) {
 						download.refresh(data.download);
 						upload.refresh(data.upload);
