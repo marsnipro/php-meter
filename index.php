@@ -86,7 +86,7 @@
 	</div>
 	<div id="footer">
 		<hr class="line">
-		<p>2016 &copy; <a href="mailto:smarcell@mail.com">Sandro Marcell</a></p>
+		<p>php-meter &copy; 2016 <a href="mailto:smarcell@mail.com">Sandro Marcell</a></p>
 	</div>
 </body>
 
