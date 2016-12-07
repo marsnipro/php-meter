@@ -1,4 +1,6 @@
 <!--
+   Copyright 2016 Sandro Marcell <smarcell@mail.com>
+   
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
    the Free Software Foundation; either version 2 of the License, or
@@ -25,8 +27,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="author" content="Sandro Marcell" />
 	<meta name="generator" content="Geany 1.24.1" />
-	<link rel="shortcut icon" href="imagens/favicon.ico" />
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<link rel="icon" type="image/x-icon" href="imagens/favicon.ico" />
 	<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
 	<script type="text/javascript" src="js/raphael-2.1.4.min.js"></script>
 	<script type="text/javascript" src="js/justgage.js"></script>
