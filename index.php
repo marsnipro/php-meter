@@ -78,7 +78,7 @@
 		});
     </script>
 </head>
-
+<?php flush(); ?>
 <body>
 	<div id="content">
 		<div id="download" title="Taxa de consumo aproximada de download no link."></div>
